@@ -611,7 +611,7 @@ entities while anchoring value creation within trustless systems.
 
 ## References
 
-[1]. CoinBase, The Emergence of Cryptoeconomic Primitives, https://www.coinbase.com/zhcn/blog/the-emergence-of-cryptoeconomic-primitives<br>
+[1]. CoinBase, The Emergence of Cryptoeconomic Primitives, https://www.coinbase.com/blog/the-emergence-of-cryptoeconomic-primitives<br>
 [2]. [Keyrock](https://keyrock.com/the-great-tokenization-shift-2025-and-the-road-ahead/), The Great Tokenization Shift: 2025 and the Road Ahead,2025<br>
 [3]. Jeremy Allaire, “Blockchain is in from the cold — and stablecoins are set to change the financial system forever,” World Economic Forum, January 15, 2024.
 [4]. Rajaram Suresh, Sumit Kumar, Darius Liu, Bernhard Kronfellner, and Aaditya Kaul, “Relevance of on-chain Asset Tokenization in ‘Crypto Winter’,” Boston Consulting Group, September 12, 2022.<br>
@@ -630,7 +630,7 @@ arXiv:2107.10881. Accessed: Apr. 18, 2022.<br>
 private smart contracts. In W. Enck and A. P. Felt, editors, USENIX Security 2018, pages 1353–
 1370, Baltimore, MD, USA, Aug. 15–17, 2018. USENIX Association.<br>
 [13]. S. Chaliasos, I. Reif, A. Torralba-Agell, J. Ernstberger, A. Kattis, and B. Livshits. Analyzing and benchmarking ZK-rollups. Cryptology ePrint Archive, Paper 2024/889, 2024. https://eprint.iacr.org/2024/889.pdf<br>
-[14]. Dencun Mainnet Announcement, https://blog.ethereum.org/2024/02/27/dencun-mainnetannouncement<br>
+[14]. Dencun Mainnet Announcement, https://blog.ethereum.org/2024/02/27/dencun-mainnet-announcement<br>
 [15]. Parallel Execution — docs.monad.xyz. https://docs.monad.xyz/ technicaldiscussion/execution/parallel-execution. [Accessed 23-01-2024].<br>
 [16]. Sei Labs. Sei: The layer 1 for trading. https://github.com/sei-protocol/ seichain/blob/main/whitepaper/Sei_Whitepaper.pdf. [Accessed 17-03-2024].<br>
 [17]. The MystenLabs Team. The sui smart contracts platform. https://docs.sui.io/ paper/sui.pdf.<br>
